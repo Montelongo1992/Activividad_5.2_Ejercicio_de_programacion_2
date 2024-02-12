@@ -1,0 +1,12 @@
+
+TC1.Sales.json:
+Precio Total de Ventas: $2481.86
+Tiempo de Procesamiento: 0.0001 segundos
+
+TC2.Sales.json:
+Precio Total de Ventas: $166568.23
+Tiempo de Procesamiento: 0.0000 segundos
+
+TC3.Sales.json:
+Precio Total de Ventas: $165235.37
+Tiempo de Procesamiento: 0.0001 segundos
